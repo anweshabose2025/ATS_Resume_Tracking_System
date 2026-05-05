@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+scikit-learn
+
+
+# D:\Netwoven\ATS_Resume_Tracker_System>conda create -p venv python=3.13
+# conda activate D:\Netwoven\ATS_Resume_Tracker_System\venv
+# pip install -r requirements.txt
+# streamlit run main.py

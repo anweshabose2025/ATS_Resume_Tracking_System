@@ -1,0 +1,38 @@
+🚀 We're Hiring: Junior AI Engineer (1-3 Years Experience) 
+
+Exciting opportunity to kickstart or grow your career in AI/ML with a fast-evolving digital solutions company!
+
+At Adaequare, we specialize in delivering innovative solutions across Cloud, Data & AI, Product Engineering, and Intelligent Process Automation. If you're passionate about building real-world AI systems and working with modern technologies like LLMs and data pipelines, we’d love to connect with you.
+
+📍 Location: Hyderabad
+💼 Experience: 1-3 Years
+
+🔍 What You'll Work On:
+• Building and maintaining AI/ML platform components
+• Developing LLM-based features (prompt workflows, APIs, integrations)
+• Working on document processing pipelines (OCR, structured extraction)
+• Designing backend services using Python and/or .NET
+• Contributing to RAG-based solutions and vector databases
+• Creating data pipelines for ingestion, preprocessing, and inference
+• Testing, debugging, and optimizing AI systems
+• Collaborating with cross-functional teams and contributing to POCs
+
+🧠 What We’re Looking For:
+• 1–3 years of experience in software development or AI/ML
+• Basic understanding of Machine Learning & Generative AI concepts
+• Hands-on with Python and/or .NET
+• Knowledge of REST APIs & microservices
+• Familiarity with data preprocessing
+• Exposure to Docker, vector DBs, or RAG is a plus
+• Strong problem-solving mindset and eagerness to learn
+• Good communication and teamwork skills
+
+🌟 What Success Looks Like:
+• Building reliable and scalable AI/ML components
+• Growing expertise in LLMs, data pipelines, and backend systems
+• Writing clean, maintainable, production-ready code
+• Actively experimenting with new tools and technologies
+• Taking ownership and collaborating effectively
+
+🏢 About Us:
+Adaequare is a product and services organization founded in 2004, headquartered in Chantilly, Virginia (USA), with a strong offshore presence in Hyderabad. We focus on delivering high-quality, cost-effective digital solutions across industries.
